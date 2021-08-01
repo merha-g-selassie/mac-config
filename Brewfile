@@ -1,7 +1,16 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-# Provides updates to various Microsoft products
-cask "microsoft-auto-update"
-# Office suite
-cask "microsoft-office"
+
+cask "adobe-acrobat-reader"
+cask "discord"
+cask "docker"
+cask "firefox"
+cask "google-chrome"
+cask "postman"
+cask "spotify"
+cask "vlc"
+cask "visual-studio-code"
+cask "whatsapp"
+cask "node"
+cask "yarn"
